@@ -1,1 +1,1 @@
-# RTA_LKA
+# Real-Time Analytics - Course Repository
